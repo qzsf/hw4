@@ -1,4 +1,3 @@
-
 /**
  * JavaFX Application: Guillotine
  *
