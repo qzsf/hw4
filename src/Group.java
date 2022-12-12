@@ -1,2 +1,7 @@
-package PACKAGE_NAME;public class Group {
+public enum Group {
+    Church,
+    Military,
+    Royal,
+    Civic,
+    Commoner
 }
